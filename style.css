@@ -1,0 +1,65 @@
+body {
+
+}
+
+
+.title-container{
+  height:40vh;
+
+  background-color: rgb(230,230,230);
+}
+
+.title-hello {
+  font-family: 'ZCOOL KuaiLe', cursive;
+  font-size: 10rem;
+  font-weight: 700;
+
+}
+
+.title-name{
+color: rgb(230,230,230)
+background-color: #2f9886;
+font-family: 'ZCOOL KuaiLe', cursive;
+font-size: 4rem;
+font-weight: 800;
+position: relative;
+top: -2.5rem;
+
+}
+
+.title-tag{
+font-family: 'ZCOOL KuaiLe', cursive;
+font-size: 2rem;
+position: relative;
+top: -2rem;
+}
+
+.about-me-container{
+  height:40vh;
+  width: 80vw;
+
+  margin-left: 10vw;
+
+  background-color: #2f9886;
+}
+
+
+.about-me-image{
+  width: 20vw;
+  height: 22.5vw;
+
+  border-radius: 100%;
+
+}
+
+
+.about-me-text {
+color: rgb(230,230,230)
+
+}
+
+text-align: left;
+padding-
+
+
+
